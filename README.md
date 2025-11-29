@@ -1,4 +1,4 @@
-# Lab2_Clasificaci-n
+# Lab2_Clasificación
 Laboratorio 2 ML — Clasificación con SVM y Random Forest / Classification with SVM and Random Forest
 
 ## Descripción / Description
